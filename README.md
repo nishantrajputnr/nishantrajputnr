@@ -38,8 +38,8 @@ Primary interests: Django, Competitive Programming, C++, JavaScript, Blockchain 
 <br />
 
 ### Other Profiles:
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=Linkedin&logoColor=white)
-#### Linkedin : https://linkedin.com/in/nishantrajputnr
+
+![LinkedIn](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=Linkedin&logoColor=white) : https://linkedin.com/in/nishantrajputnr
 #### Codechef : https://www.codechef.com/users/nishant_rajput 
 #### Codeforces : https://codeforces.com/profile/nishantrajput
 
