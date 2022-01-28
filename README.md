@@ -1,7 +1,7 @@
 
 
 <!--
-**surajmamgai/surajmamgai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nishantrajputnr/nishantrajputnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋 I am Nishant Rajput, a pre-final year Computer Science Undergraduate.
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+ I am Nishant Rajput, a pre-final year Computer Science Undergraduate.
 ---
 
 
